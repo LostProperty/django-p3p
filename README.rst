@@ -12,11 +12,7 @@ Installation
 
 Install django-p3p with pip::
 
-    $ pip install -e http://github.com/jjanssen/django-p3p#egg=django-p3p
-
-or::
-
-    $ pip install django-p3p
+    $ pip install -e git+https://github.com/LostProperty/django-p3p.git#egg=django-p3p
 
 
 Configuration
